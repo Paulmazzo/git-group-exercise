@@ -1,7 +1,6 @@
 # git-group-exercise
-<<<<<<< HEAD
 adding a new line
-=======
+new line
 hi hello :) 
 line 1
 line 2
@@ -16,4 +15,7 @@ diffent
 ones
 though
 merge
->>>>>>> d4bf4c435d572398bf6e29c73011b76ffca5e963
+
+
+hat's geklappt? - bea
+
