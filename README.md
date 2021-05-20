@@ -1,10 +1,6 @@
 # git-group-exercise
 line
-line
-line
-line
-line
-line
-line
-line
-line
+diffent
+ones
+though
+merge
