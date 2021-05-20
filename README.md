@@ -1,4 +1,5 @@
 # git-group-exercise
+new line
 hi hello :) 
 line 1
 line 2
