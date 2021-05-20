@@ -8,3 +8,8 @@ line 5
 line 6
 line 7
 again
+line
+diffent
+ones
+though
+merge
